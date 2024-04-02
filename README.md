@@ -1,9 +1,9 @@
 <h1> 
-     Projeto Cadastro Pet
+     Projeto Cadastro de Cliente
 </h1>
 
 🗒️Sobre o projeto
-Projeto criado para treinar o uso do JPanel em Java. Foi feito durante a aula de POO do curso de Sistema da informação.
+Projeto criado para treinar o uso do JPanel em Java. Foi feito para a aula de POO do curso de Sistema da informação.
 
 ---
 
